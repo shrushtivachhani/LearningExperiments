@@ -1,0 +1,19 @@
+{
+  "name": "learningexperiments",
+  "version": "1.0.0",
+  "description": "backend concepts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Shrushti Vachhani",
+  "license": "ISC"
+}
